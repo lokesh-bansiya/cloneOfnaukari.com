@@ -1,8 +1,5 @@
 # cloneOfnaukari.com
 
-
-![naukari](https://user-images.githubusercontent.com/105616033/198510841-57c83fd5-4b27-40b7-ba00-4da2176ad7ef.png)
-
 <div>
 Naukri.com is a recruitment platform that provides hiring-related services to corporates/recruiters, placement agencies, and job seekers in India and overseas. It offers multiple products like Resume Database Access, Job Listings, and Response Management Tools. Here is the clone of the real website that I made with the help of react, chakra-ui and javascript mostly.
 </div>
