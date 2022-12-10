@@ -4,18 +4,12 @@
  - Individual Project
  - Naukri.com is a recruitment platform that provides hiring-related services to corporates/recruiters, placement agencies, and job seekers in India and overseas. It offers multiple products like Resume Database Access, Job Listings, and Response Management Tools. Here is the clone of the real website that I made with the help of react, chakra-ui and javascript mostly.
 
-## Tech-stacks:-
- - HTML
- - CSS
- - JavaScript
- - React.js
- - Chakra UI
- 
-## Tools:-
- - VS-Code
- - GitHub
- - Vercel
- - NPM
+
+## Functionality
+   -  Authentication of users
+   -  Page Routings
+
+
  
 # Descriptive Layout:-
 
@@ -43,6 +37,22 @@
 ## Footer Page:-
 ![footer_page](https://user-images.githubusercontent.com/105616033/205473115-941855b9-c025-4a40-acc1-640af7429d79.png)
 
+
+
+## Tech-stacks:-
+ - HTML
+ - CSS
+ - JavaScript
+ - React.js
+ - Chakra UI
+ 
+## Tools:-
+ - VS-Code
+ - GitHub
+ - Vercel
+ - NPM
+ 
+ 
 <br/>
 <br/>
 <br/>
